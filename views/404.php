@@ -1,5 +1,5 @@
-<?php
+<?php 
 
 require 'common_elements/header.php';
-echo 'contact';
+echo '404';
 require 'common_element/footer.php';
